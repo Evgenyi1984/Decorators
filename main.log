@@ -1,0 +1,5 @@
+[2024-12-25 12:15:39.837262] Function 'hello_world' was called with args: (), kwargs: {}. Returned: Hello World
+[2024-12-25 12:15:39.840263] Function 'summator' was called with args: (2, 2), kwargs: {}. Returned: 4
+[2024-12-25 12:15:39.842266] Function 'div' was called with args: (6, 2), kwargs: {}. Returned: 3.0
+[2024-12-25 12:15:39.851263] Function 'summator' was called with args: (4.3,), kwargs: {'b': 2.2}. Returned: 6.5
+[2024-12-25 12:15:39.854265] Function 'summator' was called with args: (), kwargs: {'a': 0, 'b': 0}. Returned: 0
